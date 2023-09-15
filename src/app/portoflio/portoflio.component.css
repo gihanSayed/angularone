@@ -1,0 +1,17 @@
+.i-hover{
+    cursor: pointer;
+    
+}
+
+
+.overlap{
+    background-color: aquamarine;
+    opacity: 0;
+    transition:opacity 1s;
+}
+
+
+
+.overlap:hover{
+    opacity: 1;
+    }

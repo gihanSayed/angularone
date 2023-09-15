@@ -1,0 +1,18 @@
+.footcontant{
+    background-color: #2C3E50;
+    padding: 40px;
+}
+
+.space{
+    width: 30px;
+    height: 30px;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 50%; 
+    border-width: 1px;
+
+}
+
+.ffoot{
+    background-color: #0C1116;
+}
